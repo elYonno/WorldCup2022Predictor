@@ -1,0 +1,33 @@
+Group,Country_Name,First,Match_index,Second,Match_index,Third,Match_index
+A1,Qatar,Ecuador,1,Senegal,17,Netherlands,33
+A2,Ecuador,Qatar,1,Netherlands,18,Senegal,34
+A3,Senegal,Netherlands,2,Qatar,17,Ecuador,34
+A4,Netherlands,Senegal,2,Ecuador,18,Qatar,33
+B1,England,IR Iran,3,USA,19,Wales,35
+B2,IR Iran,England,3,Wales,20,USA,36
+B3,USA,Wales,4,England,19,IR Iran,36
+B4,Wales,USA,4,IR Iran,20,England,35
+C1,Argentina,Saudi Arabia,5,Mexico,21,Poland,37
+C2,Saudi Arabia,Argentina,5,Poland,22,Mexico,38
+C3,Mexico,Poland,6,Argentina,21,Saudi Arabia,38
+C4,Poland,Mexico,6,Saudi Arabia,22,Argentina,37
+D1,France,Australia,7,Denmark,23,Tunisia,39
+D2,Denmark,Tunisia,8,France,23,Australia,40
+D3,Tunisia,Denmark,8,Australia,24,France,39
+D4,Australia,France,7,Tunisia,24,Denmark,40
+E1,Spain,Costa Rica,9,Germany,25,Japan,41
+E2,Germany,Japan,10,Spain,25,Costa Rica,42
+E3,Japan,Germany,10,Costa Rica,26,Spain,41
+E4,Costa Rica,Spain,9,Japan,26,Germany,42
+F1,Belgium,Canada,11,Morocco,27,Croatia,43
+F2,Canada,Belgium,11,Croatia,28,Morocco,44
+F3,Morocco,Croatia,12,Belgium,27,Canada,44
+F4,Croatia,Morocco,12,Canada,28,Belgium,43
+G1,Brazil,Serbia,13,Switzerland,29,Cameroon,45
+G2,Serbia,Brazil,13,Cameroon,30,Switzerland,46
+G3,Switzerland,Cameroon,14,Brazil,29,Serbia,46
+G4,Cameroon,Switzerland,14,Serbia,30,Brazil,45
+H1,Portugal,Ghana,15,Uruguay,31,Korea Republic,47
+H2,Ghana,Portugal,15,Korea Republic,32,Uruguay,48
+H3,Uruguay,Korea Republic,16,Portugal,31,Ghana,48
+H4,Korea Republic,Uruguay,16,Ghana,32,Portugal,47
