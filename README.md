@@ -1,1 +1,4 @@
-# WorldCup2022Predictor
+# World Cup 2022 Prediction
+With the World Cup ongoing at the time of writing this, it will be very interesting to predict the winners. In this notebook, we used past international game results to learn, cross validate, and test a linear regression model that will predict the expected goals for each match. This dataset can be found in Past_International_Matches.csv, which we derived from Kaggle ([FIFA World Cup 2022 ⚽️🏆](https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022)).
+
+We then used this model then simulate the whole competion. This means predicting each game in the group stage to find out who will qualify for the knock out stages, and then use the predefined tournament bracket for this World Cup. We will iterate many simulations to find the chance of each team winning this World Cup.
